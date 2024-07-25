@@ -1,0 +1,86 @@
+[
+    {
+        "address": "XN4OX5OFLZFLDBI4J36EGOIMKGR4NISEVFCQRXDTC4WT35GPBM5EJI7IOA",
+        "type": "TEAM",
+        "txid": "",
+        "description": "Minting wallet"
+    },
+    {
+        "address": "ABU4ZY2UAPJWIZPE5FZP6GWVXTIP77YNAF3KBWBNW6KNBZALKRKPZL6HLM",
+        "type": "TEAM",
+        "txid": "",
+        "description": "gAlgo Vault"
+    },
+    {
+        "address": "YVQRJKC7TUD3XB3XCAA7SMY5OG7AHOTU465DI7HIOL4NQZMG52NXLBOMYA",
+        "type": "TEAM",
+        "txid": "",
+        "description": "Link Vault"
+    },
+    {
+        "address": "RQ4MNDFSG4CCCWEJMRNGE5ZRNV3F2PHZSDJZ5X266MXA65HMLRFFXNAW5Y",
+        "type": "TEAM",
+        "txid": "",
+        "description": "AVAX Vault"
+    },
+    {
+        "address": "ODJPJKPAHL7NPRJC5XF42SWFHB37ECCQEGFJIA4TFWOXGKJQA6M7S5NL2M",
+        "type": "TEAM",
+        "txid": "",
+        "description": "Sol Vault"
+    },
+    {
+        "address": "UVSJVQXX3KYYWTQVXPRTIA5QXYAM6Y26JI2P2NZP25RSJTVMP3X7ODNC5Q",
+        "type": "TEAM",
+        "txid": "",
+        "description": "goBTC Vault"
+    },
+    {
+        "address": "DMVBFMMH3RIKCS3V77DCETWJDA2HW4LPEBURBUD7RQNVK5SKH5QZG6ZF4Q",
+        "type": "TEAM",
+        "txid": "",
+        "description": "goETH Vault"
+    },
+    {
+        "address": "H4437RZ3W2Q7JXIRPDIEFO65QNNTH4SICMNWT4SSEHNQ4UPIMAO63DNZGI",
+        "type": "TEAM",
+        "txid": "",
+        "description": "Silver Vault"
+    },
+    {
+        "address": "MJET3QJDM5MXC5ZREAPW5PUK4HN73VRYMAFGMPWG7VEIRQIHFQPSMA6CUQ",
+        "type": "TEAM",
+        "txid": "",
+        "description": "Gold Vault"
+    },
+    {
+        "address": "XXLNQOR5XNJU57W2TQ3WEJTL2RGQ2ABCSAU2CX4NSZZGPHB5WSOTT6BZXA",
+        "type": "TEAM",
+        "txid": "",
+        "description": "mAlgo Vault"
+    },
+    {
+        "address": "RJQNFSLZWSZ3W6N5TJCS2F6KNEWTXUQDFI7GXDXXCOC5UDIPYYN3W665YE",
+        "type": "TEAM",
+        "txid": "",
+        "description": "Chips Vault"
+    },
+    {
+        "address": "QTFSX7MJLUBP4TLCRNGMEQCOCG6Z2O5A7RAUREW5S5RYIGMGYDLDYYSMAQ",
+        "type": "TEAM",
+        "txid": "",
+        "description": "Coop Vault"
+    },
+    {
+        "address": "HVDIX7FCCJGH3XFJNTEAQZ22CQTD2LUD7NKN7JCY37SGFA2763A4NHUHRQ",
+        "type": "TEAM",
+        "txid": "",
+        "description": "Algo Vault"
+    },
+    {
+        "address": "I4O4APZDX7R7GL26JA2G6ENO5KZHIN4ZLRJR4DANXJC6GU7A2SI6VNY6LA",
+        "type": "TEAM",
+        "txid": "",
+        "description": "Deprecated Algo Vault"
+    }
+]
